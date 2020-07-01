@@ -1,0 +1,1346 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "EVEY",
+        "target": "INTERROGATOR",
+        "weight": 2
+      },
+      {
+        "source": "EVEY",
+        "target": "FATHER",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "VALERIE",
+        "weight": 2
+      },
+      {
+        "source": "EVEY",
+        "target": "LITTLE EVEY",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "DENNIS",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "CREEDY",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "DASCOMBE",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "FINGERMAN 3",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "FATE",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "FINGERMAN 1",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "ROSSITER",
+        "weight": 2
+      },
+      {
+        "source": "EVEY",
+        "target": "GUARD 1",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "LILLIMAN",
+        "weight": 3
+      },
+      {
+        "source": "EVEY",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "EVEY",
+        "target": "FINGERMAN 2",
+        "weight": 1
+      },
+      {
+        "source": "TRAIN MAN 2",
+        "target": "TRAIN MAN",
+        "weight": 1
+      },
+      {
+        "source": "TRAIN MAN 2",
+        "target": "PROTHERO",
+        "weight": 1
+      },
+      {
+        "source": "LOUT",
+        "target": "HARPER",
+        "weight": 1
+      },
+      {
+        "source": "LOUT",
+        "target": "CREEDY",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "DOMINIC",
+        "weight": 5
+      },
+      {
+        "source": "FINCH",
+        "target": "LIEUTENANT",
+        "weight": 2
+      },
+      {
+        "source": "FINCH",
+        "target": "SOLDIER",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "DELIA",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "ETHERIDGE",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "DASCOMBE",
+        "weight": 2
+      },
+      {
+        "source": "FINCH",
+        "target": "LEADER",
+        "weight": 7
+      },
+      {
+        "source": "FINCH",
+        "target": "ALMOND",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "TAPE",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "CONRAD",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "CREEDY",
+        "weight": 3
+      },
+      {
+        "source": "FINCH",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "FINCH",
+        "target": "CAPTAIN",
+        "weight": 3
+      },
+      {
+        "source": "DEREK",
+        "target": "ROSEMARY",
+        "weight": 3
+      },
+      {
+        "source": "DEREK",
+        "target": "HELEN",
+        "weight": 2
+      },
+      {
+        "source": "DEREK",
+        "target": "CONRAD",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "ALMOND",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "CONRAD",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "ETHERIDGE",
+        "weight": 1
+      },
+      {
+        "source": "CONRAD",
+        "target": "LEADER",
+        "weight": 2
+      },
+      {
+        "source": "CONRAD",
+        "target": "ETHERIDGE",
+        "weight": 2
+      },
+      {
+        "source": "CONRAD",
+        "target": "ALMOND",
+        "weight": 1
+      },
+      {
+        "source": "CONRAD",
+        "target": "CREEDY",
+        "weight": 1
+      },
+      {
+        "source": "CONRAD",
+        "target": "ROSEMARY",
+        "weight": 1
+      },
+      {
+        "source": "CONRAD",
+        "target": "DASCOMBE",
+        "weight": 1
+      },
+      {
+        "source": "CONRAD",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "CONRAD",
+        "target": "HELEN",
+        "weight": 3
+      },
+      {
+        "source": "ROSSITER",
+        "target": "INTERROGATOR",
+        "weight": 1
+      },
+      {
+        "source": "ROSSITER",
+        "target": "GUARD 1",
+        "weight": 1
+      },
+      {
+        "source": "ROSSITER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "FINGERMAN 3",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "FINGERMAN 1",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "GUARD 1",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "FINGERMAN 2",
+        "weight": 1
+      },
+      {
+        "source": "INTERROGATOR",
+        "target": "VALERIE",
+        "weight": 1
+      },
+      {
+        "source": "BODYGUARD 1",
+        "target": "BODYGUARD 2",
+        "weight": 2
+      },
+      {
+        "source": "BODYGUARD 1",
+        "target": "PROTHERO",
+        "weight": 3
+      },
+      {
+        "source": "SOLDIER",
+        "target": "DOMINIC",
+        "weight": 1
+      },
+      {
+        "source": "DENNIS",
+        "target": "LILLIMAN",
+        "weight": 1
+      },
+      {
+        "source": "BODYGUARD 2",
+        "target": "PROTHERO",
+        "weight": 2
+      },
+      {
+        "source": "FINGERMAN 3",
+        "target": "FINGERMAN 1",
+        "weight": 1
+      },
+      {
+        "source": "FINGERMAN 3",
+        "target": "FINGERMAN 2",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "LEADER",
+        "weight": 6
+      },
+      {
+        "source": "HELEN",
+        "target": "CREEDY",
+        "weight": 3
+      },
+      {
+        "source": "HELEN",
+        "target": "ROSEMARY",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "STORM",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "STORM",
+        "target": "HEIDI",
+        "weight": 1
+      },
+      {
+        "source": "DRUNK",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "DOMINIC",
+        "target": "DELIA",
+        "weight": 1
+      },
+      {
+        "source": "DOMINIC",
+        "target": "TAPE",
+        "weight": 1
+      },
+      {
+        "source": "DOMINIC",
+        "target": "CREEDY",
+        "weight": 2
+      },
+      {
+        "source": "DELIA",
+        "target": "PROTHERO",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE EVEY",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE EVEY",
+        "target": "FATHER",
+        "weight": 1
+      },
+      {
+        "source": "ALMOND",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "ALMOND",
+        "target": "ETHERIDGE",
+        "weight": 1
+      },
+      {
+        "source": "FINGERMAN 1",
+        "target": "FINGERMAN 2",
+        "weight": 1
+      },
+      {
+        "source": "CREEDY",
+        "target": "LEADER",
+        "weight": 4
+      },
+      {
+        "source": "CREEDY",
+        "target": "HARPER",
+        "weight": 1
+      },
+      {
+        "source": "CREEDY",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "CREEDY",
+        "target": "DASCOMBE",
+        "weight": 1
+      },
+      {
+        "source": "CREEDY",
+        "target": "ETHERIDGE",
+        "weight": 1
+      },
+      {
+        "source": "HEIDI",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "DASCOMBE",
+        "weight": 1
+      },
+      {
+        "source": "PROTHERO",
+        "target": "TRAIN MAN",
+        "weight": 1
+      },
+      {
+        "source": "PROTHERO",
+        "target": "DASCOMBE",
+        "weight": 1
+      },
+      {
+        "source": "ETHERIDGE",
+        "target": "LEADER",
+        "weight": 2
+      },
+      {
+        "source": "ETHERIDGE",
+        "target": "DASCOMBE",
+        "weight": 1
+      },
+      {
+        "source": "DASCOMBE",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "LEADER",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "LEADER",
+        "target": "CAPTAIN",
+        "weight": 6
+      },
+      {
+        "source": "MOTHER",
+        "target": "FATHER",
+        "weight": 1
+      },
+      {
+        "source": "GUARD",
+        "target": "CAPTAIN",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "EVEY",
+        "name": "EVEY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 18,
+        "pagerank": 0.08822230671997697,
+        "object_id": "5299775",
+        "triangles": 20,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7906976744186047,
+        "betweenness centrality": 479.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRAIN MAN 2",
+        "name": "TRAIN MAN 2",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012283829895859985,
+        "object_id": "5301234",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.5348837209302326,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOUT",
+        "name": "LOUT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.009922510959500395,
+        "object_id": "5302362",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8372093023255816,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FINCH",
+        "name": "FINCH",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.07347348205793897,
+        "object_id": "5300612",
+        "triangles": 25,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.116279069767442,
+        "betweenness centrality": 126.84999999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEREK",
+        "name": "DEREK",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017656589389477357,
+        "object_id": "5301519",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.744186046511628,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIEUTENANT",
+        "name": "LIEUTENANT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.018866548437457713,
+        "object_id": "5300632",
+        "triangles": 12,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.488372093023256,
+        "betweenness centrality": 1.2833333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONRAD",
+        "name": "CONRAD",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.038254360324994255,
+        "object_id": "5300563",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1627906976744184,
+        "betweenness centrality": 54.11666666666669,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSSITER",
+        "name": "ROSSITER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.02119874315124277,
+        "object_id": "5303340",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.697674418604651,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.025635839146095563,
+        "object_id": "5300229",
+        "triangles": 9,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6511627906976742,
+        "betweenness centrality": 3.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INTERROGATOR",
+        "name": "INTERROGATOR",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01739515024348939,
+        "object_id": "5303361",
+        "triangles": 2,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7209302325581395,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BODYGUARD 1",
+        "name": "BODYGUARD 1",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.022122823553274527,
+        "object_id": "5300892",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.5348837209302326,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOLDIER",
+        "name": "SOLDIER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.008018273373795574,
+        "object_id": "5301279",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0697674418604652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DENNIS",
+        "name": "DENNIS",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.010413250916830687,
+        "object_id": "5301627",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.744186046511628,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BODYGUARD 2",
+        "name": "BODYGUARD 2",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01823906373751713,
+        "object_id": "5300909",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.5348837209302326,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LILLIMAN",
+        "name": "LILLIMAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.017616435672603698,
+        "object_id": "5301611",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.744186046511628,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FINGERMAN 3",
+        "name": "FINGERMAN 3",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.017916347373287546,
+        "object_id": "5300289",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.697674418604651,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HELEN",
+        "name": "HELEN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.045636766644531715,
+        "object_id": "5301503",
+        "triangles": 12,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0930232558139537,
+        "betweenness centrality": 79.61666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.005549857150322764,
+        "object_id": "5305532",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.744186046511628,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STORM",
+        "name": "STORM",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010879885206870507,
+        "object_id": "5304818",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.372093023255814,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUARD 1",
+        "name": "GUARD 1",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.013905489141698613,
+        "object_id": "5303328",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7209302325581395,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRUNK",
+        "name": "DRUNK",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.005549857150322764,
+        "object_id": "5305562",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.744186046511628,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOMINIC",
+        "name": "DOMINIC",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.02889173528709976,
+        "object_id": "5301262",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.441860465116279,
+        "betweenness centrality": 21.033333333333328,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DELIA",
+        "name": "DELIA",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.011672186720104345,
+        "object_id": "5302205",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8372093023255816,
+        "betweenness centrality": 21.58333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LITTLE EVEY",
+        "name": "LITTLE EVEY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.015392179456347615,
+        "object_id": "5299970",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7209302325581395,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FATE",
+        "name": "FATE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.0066696122490438,
+        "object_id": "5300096",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7674418604651163,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALMOND",
+        "name": "ALMOND",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.014400884226495972,
+        "object_id": "5300649",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.511627906976744,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FINGERMAN 1",
+        "name": "FINGERMAN 1",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.017916347373287546,
+        "object_id": "5300262",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.697674418604651,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CREEDY",
+        "name": "CREEDY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.05133346084576705,
+        "object_id": "5301946",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8837209302325582,
+        "betweenness centrality": 149.73333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HEIDI",
+        "name": "HEIDI",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010879885206870507,
+        "object_id": "5304815",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.372093023255814,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.010339968142196084,
+        "object_id": "5304781",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.511627906976744,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PROTHERO",
+        "name": "PROTHERO",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.03868676038717393,
+        "object_id": "5300787",
+        "triangles": 2,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5813953488372094,
+        "betweenness centrality": 163.69999999999993,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FINGERMAN 2",
+        "name": "FINGERMAN 2",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.017916347373287546,
+        "object_id": "5300265",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.697674418604651,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VALERIE",
+        "name": "VALERIE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.013626758376297846,
+        "object_id": "5303528",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.744186046511628,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSEMARY",
+        "name": "ROSEMARY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.015235528444782362,
+        "object_id": "5301516",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.744186046511628,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ETHERIDGE",
+        "name": "ETHERIDGE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.023708438961146952,
+        "object_id": "5300595",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.302325581395349,
+        "betweenness centrality": 3.850000000000001,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DASCOMBE",
+        "name": "DASCOMBE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.02640395020447589,
+        "object_id": "5299929",
+        "triangles": 14,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8604651162790697,
+        "betweenness centrality": 197.9666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEADER",
+        "name": "LEADER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 14,
+        "pagerank": 0.08815230077638622,
+        "object_id": "5300555",
+        "triangles": 30,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7674418604651163,
+        "betweenness centrality": 204.4333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARPER",
+        "name": "HARPER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.009922510959500395,
+        "object_id": "5302350",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8372093023255816,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAPE",
+        "name": "TAPE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.008018273373795574,
+        "object_id": "5302137",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0697674418604652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTHER",
+        "name": "MOTHER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.015392179456347615,
+        "object_id": "5299980",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7209302325581395,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUARD",
+        "name": "GUARD",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.023446261485263922,
+        "object_id": "5304828",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4186046511627906,
+        "betweenness centrality": 84.33333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FATHER",
+        "name": "FATHER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.015392179456347615,
+        "object_id": "5299984",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7209302325581395,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN",
+        "name": "CAPTAIN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.02556101109503253,
+        "object_id": "5305139",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.558139534883721,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRAIN MAN",
+        "name": "TRAIN MAN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012283829895859985,
+        "object_id": "5301207",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.5348837209302326,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -182.88152,
+        "y": -107.36271,
+        "name": "EVEY"
+      },
+      {
+        "x": 407.9044,
+        "y": 59.82763,
+        "name": "TRAIN MAN 2"
+      },
+      {
+        "x": -72.59511,
+        "y": 232.90672,
+        "name": "LOUT"
+      },
+      {
+        "x": 96.813736,
+        "y": 168.41652,
+        "name": "FINCH"
+      },
+      {
+        "x": -91.30921,
+        "y": 67.96258,
+        "name": "DEREK"
+      },
+      {
+        "x": 10.339891,
+        "y": 193.97514,
+        "name": "LIEUTENANT"
+      },
+      {
+        "x": 3.7725875,
+        "y": 55.956173,
+        "name": "CONRAD"
+      },
+      {
+        "x": -279.94437,
+        "y": -84.16,
+        "name": "ROSSITER"
+      },
+      {
+        "x": -344.5036,
+        "y": -135.35153,
+        "name": "MAN"
+      },
+      {
+        "x": -232.44785,
+        "y": -56.761375,
+        "name": "INTERROGATOR"
+      },
+      {
+        "x": 411.63654,
+        "y": 21.187271,
+        "name": "BODYGUARD 1"
+      },
+      {
+        "x": 143.62177,
+        "y": 264.82965,
+        "name": "SOLDIER"
+      },
+      {
+        "x": -236.29756,
+        "y": -128.83405,
+        "name": "DENNIS"
+      },
+      {
+        "x": 416.81503,
+        "y": -10.901241,
+        "name": "BODYGUARD 2"
+      },
+      {
+        "x": -191.53621,
+        "y": -159.11041,
+        "name": "LILLIMAN"
+      },
+      {
+        "x": -305.4478,
+        "y": -172.29369,
+        "name": "FINGERMAN 3"
+      },
+      {
+        "x": -34.3393,
+        "y": 88.928825,
+        "name": "HELEN"
+      },
+      {
+        "x": 11.108894,
+        "y": -3.5486047,
+        "name": "WOMAN"
+      },
+      {
+        "x": 176.42233,
+        "y": -76.24449,
+        "name": "STORM"
+      },
+      {
+        "x": -326.70056,
+        "y": -73.66868,
+        "name": "GUARD 1"
+      },
+      {
+        "x": -18.382488,
+        "y": 238.129,
+        "name": "DRUNK"
+      },
+      {
+        "x": 149.28609,
+        "y": 197.51567,
+        "name": "DOMINIC"
+      },
+      {
+        "x": 252.99286,
+        "y": 147.26006,
+        "name": "DELIA"
+      },
+      {
+        "x": -112.498,
+        "y": -246.0437,
+        "name": "LITTLE EVEY"
+      },
+      {
+        "x": -240.07596,
+        "y": -163.24893,
+        "name": "FATE"
+      },
+      {
+        "x": -35.247684,
+        "y": 166.36497,
+        "name": "ALMOND"
+      },
+      {
+        "x": -303.98364,
+        "y": -216.68915,
+        "name": "FINGERMAN 1"
+      },
+      {
+        "x": 64.25275,
+        "y": 123.85771,
+        "name": "CREEDY"
+      },
+      {
+        "x": 145.23006,
+        "y": -98.436615,
+        "name": "HEIDI"
+      },
+      {
+        "x": 152.15762,
+        "y": 107.12261,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": 364.00092,
+        "y": 35.33096,
+        "name": "PROTHERO"
+      },
+      {
+        "x": -348.35147,
+        "y": -193.9471,
+        "name": "FINGERMAN 2"
+      },
+      {
+        "x": -186.82982,
+        "y": -50.597946,
+        "name": "VALERIE"
+      },
+      {
+        "x": -84.49242,
+        "y": 32.792866,
+        "name": "ROSEMARY"
+      },
+      {
+        "x": 59.665474,
+        "y": 74.80514,
+        "name": "ETHERIDGE"
+      },
+      {
+        "x": 125.25795,
+        "y": 57.95429,
+        "name": "DASCOMBE"
+      },
+      {
+        "x": 17.294966,
+        "y": 124.28714,
+        "name": "LEADER"
+      },
+      {
+        "x": -48.927704,
+        "y": 265.21173,
+        "name": "HARPER"
+      },
+      {
+        "x": 186.88345,
+        "y": 241.2706,
+        "name": "TAPE"
+      },
+      {
+        "x": -148.98172,
+        "y": -268.40036,
+        "name": "MOTHER"
+      },
+      {
+        "x": 88.514565,
+        "y": 2.444492,
+        "name": "GUARD"
+      },
+      {
+        "x": -149.26715,
+        "y": -225.18718,
+        "name": "FATHER"
+      },
+      {
+        "x": 46.024475,
+        "y": 162.70587,
+        "name": "CAPTAIN"
+      },
+      {
+        "x": 376.2487,
+        "y": -11.520588,
+        "name": "TRAIN MAN"
+      }
+    ]
+  }
+}
